@@ -1,0 +1,12 @@
+#usersbody{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* margin: 0px 0px; */
+    /* max-width: 90%;   */
+    /* background-color: aqua; */
+}
+h1{
+        margin:10rem 1rem;
+        text-align:center; 
+}
